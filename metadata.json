@@ -1,0 +1,6 @@
+{
+  "name": "Contact Form Sample",
+  "description": "A clean, modern sample contact form featuring Name, Email, and Message fields with validation, quick sample presets, and message submission history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
